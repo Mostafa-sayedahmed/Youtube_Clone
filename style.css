@@ -110,3 +110,8 @@ nav {
 .active {
   background-color: #e5e5e5;
 }
+
+hr {
+  margin: 10px 0;
+  border: 1px solid #e5e5e5;
+}
