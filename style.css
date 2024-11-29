@@ -70,3 +70,8 @@ header {
   text-decoration: none;
   color: black;
 }
+.content-area {
+  height: calc(100vh - 56px);
+  display: flex;
+  background-color: #f9f9f9;
+}
