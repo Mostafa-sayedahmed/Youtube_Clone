@@ -115,3 +115,17 @@ hr {
   margin: 10px 0;
   border: 1px solid #e5e5e5;
 }
+
+nav p {
+  font-size: 1.4 rem;
+  color: #606060;
+  font-weight: 500;
+  padding: 8px 16px;
+  text-transform: uppercase;
+}
+.channel-img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+}
